@@ -1,0 +1,8 @@
+li {
+  background-color: grey;
+}
+
+.prop-span{
+  font-weight: bolder;
+  text-transform: uppercase;
+}

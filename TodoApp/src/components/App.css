@@ -1,0 +1,38 @@
+h1 {
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+
+.todoContainer {
+  margin: 50px 60px;
+  border: 2px solid grey;
+  border-radius: 25px;
+  background-color:grey 
+}
+
+input {
+  width: 75%;
+  padding: 10px;
+  border-radius: 25px;
+}
+
+.col-4 {
+  font-weight: bold;
+  text-transform: uppercase;
+}
+
+.items-container {
+  text-align: left;
+}
+
+button {
+  min-width: 80px;
+}
+
+.row {
+  margin: 10px 0;
+
+}

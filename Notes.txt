@@ -1,0 +1,33 @@
+// Passing Children
+
+//container or child props are those jinko isse farq nahi padta ki..unke andar kya alag pass kiya jaa rha hai....button ya ek aur div ya kuch aur...unko bs jaise design kroge....wo wiase hi baad mein render ho jaayenge...
+//for exomples,netflix pr ek main div hai ya card hai...jisme kabhi movies show hoti hai kbhi iamge...lekin container kabhi change nahi hota
+
+//5.05==> handling events
+
+//Handling Events=>
+
+//onClick={()=>{
+  //code here
+}}
+
+//event==> gives all info about events like if we click on some button it gives multiple things like x and y cordinate values and all
+
+//5.37
+//managing states
+
+//hooks-->
+helps in to update ui when data is changed.hooks name start with 'use'
+//const [first,setFirst]=useState(0);
+
+here 0 is inittial value of first and setfirst is a method to modify that first
+eg-
+const incbutton=()=>{
+  setfirst(first=>first+1);
+}
+
+so we call incButton on onclick of any button or div
+
+//chia aur code ---why you need hooks
+
+kg coding ==>5.47

@@ -1,0 +1,7 @@
+.countContainer{
+  display:flex;
+  gap:10px
+}
+.buttons{
+  padding:10px
+}

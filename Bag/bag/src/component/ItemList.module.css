@@ -1,0 +1,28 @@
+.itemList {
+  color: white;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.itemList li {
+  list-style-type: none;
+  background-color: #222222;
+  text-transform: uppercase;
+  font-weight: bold;
+  border: 1.5px solid black;
+  border-radius: 15px;
+  display: flex;
+  justify-content: space-between;
+  gap: 15px;
+  align-items: center;
+  margin: 0;
+  padding: 10px;
+}
+.itemList ul {
+  margin: 10px 20px;
+  padding: 0;
+}
+.itemList li:hover {
+  background-color: #383838;
+  color: white;
+}

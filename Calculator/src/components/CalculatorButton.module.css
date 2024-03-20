@@ -1,0 +1,17 @@
+.buttonn{
+  padding:25px;
+  margin:5px;
+  border-radius:10px;
+  font-size:20px;
+  font-weight:bolder;
+  border:none;
+  color:black;
+  
+  
+}
+
+.buttonContainer{
+  display:flex;
+  justify-content:center;
+  flex-wrap:wrap;
+}
