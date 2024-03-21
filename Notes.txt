@@ -30,4 +30,9 @@ so we call incButton on onclick of any button or div
 
 //chia aur code ---why you need hooks
 
-kg coding ==>5.47
+kg coding ==>6.01
+
+onKeyPress ==> try to make 'handleKeyPress'
+onChange ==> try to make 'handleChange' 
+
+className={`${styles[deleteButton]} bootstrap-class`}

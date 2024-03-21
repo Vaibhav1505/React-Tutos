@@ -1,0 +1,10 @@
+.itemName{
+  font-weight:bolder;
+  text-transform:uppercase;
+}
+.itemList{
+  display:flex;
+  display:inline;
+  
+  
+}
